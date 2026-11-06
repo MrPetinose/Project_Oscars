@@ -5,7 +5,7 @@
 @section('noi-dung')
 <div class="page-header">
     <div class="page-eyebrow">
-        <span class="gold-badge">MODULE P1</span>
+        
         <span>THÔNG TIN THAM KHẢO VỀ AMPAS</span>
     </div>
     <h1 class="page-title">Giới thiệu & Lịch sử Tổ chức</h1>

@@ -5,7 +5,7 @@
 @section('noi-dung')
 <div class="page-header">
     <div class="page-eyebrow">
-        <span class="gold-badge">MODULE P2</span>
+       
         <span>AWARDS DATABASE</span>
     </div>
     <h1 class="page-title">Cơ sở dữ liệu Giải thưởng</h1>

@@ -5,7 +5,7 @@
 @section('noi-dung')
 <div class="page-header">
     <div class="page-eyebrow">
-        <span class="gold-badge">MODULE P3</span>
+     
         <span>SCAROS NEWS</span>
     </div>
     <h1 class="page-title">Tin tức &amp; Bài viết</h1>
